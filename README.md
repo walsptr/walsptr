@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. Syawal Saputra</h1>
+<h1 align="center">Hi 👋, I'm M. Syawal Saputra - KubeStronaut</h1>
 <h3 align="center">A passionate Cloud and DevOps from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walsptr&label=Profile%20views&color=0e75b6&style=flat" alt="walsptr" /> </p>
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [msyawalsaputra.rf.gd](msyawalsaputra.rf.gd)
 
-- ⚡ Fun fact **I am Human :>**
+- ⚡ Fun fact **I am one of Kubestronaut from Indonesia**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
