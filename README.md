@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
-- 📝 I regularly write articles on [medium.com/@msyawalsaputra](medium.com/@msyawalsaputra)
+- 📝 I regularly write articles on [https://medium.com/@msyawalsaputra](https://medium.com/@msyawalsaputra)
 
 - 💬 Ask me about **Cloud and Devops**
 
