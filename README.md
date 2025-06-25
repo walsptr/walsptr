@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps**
 
-- 📝 I regularly write articles on [https://medium.com/@msyawalsaputra](https://medium.com/@msyawalsaputra)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@msyawalsaputra)
 
 - 💬 Ask me about **Cloud and Devops**
 
 - 📫 How to reach me **msyawalsaputra0@gmail.com**
 
-- 📄 Know about my experiences [https://msyawalsaputra.rf.gd](msyawalsaputra.rf.gd)
+- 📄 Know about my experiences [msyawalsaputra.rf.gd](https://msyawalsaputra.rf.gd)
 
 - ⚡ Fun fact **I am one of Kubestronaut from Indonesia**
 
