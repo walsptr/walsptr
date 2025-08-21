@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Database CockroachDB &lpar;Multi Tenant Database&rpar;](https://medium.com/@msyawalsaputra/cloud-database-cockroachdb-multi-tenant-database-7cc56f018994?source=rss-8228a7b99362------2)
 - [Become a Kubestronaut in My 20s](https://medium.com/@msyawalsaputra/%EF%B8%8F-become-a-kubestronaut-in-my-20s-7a10e4d46064?source=rss-8228a7b99362------2)
 - [[Charm OpenStack: Bagian 1] Provisioning Node dengan MAAS](https://medium.com/@msyawalsaputra/charm-openstack-bagian-1-provisioning-node-dengan-maas-1cf6b40c04df?source=rss-8228a7b99362------2)
 - [[Charm OpenStack: Bagian 2] Inisialisasi Juju dan Setup Server](https://medium.com/@msyawalsaputra/charm-openstack-bagian-2-inisialisasi-juju-dan-setup-server-b5b4f4735c16?source=rss-8228a7b99362------2)
-- [[Charm OpenStack: Bagian 3] Mendeploy OpenStack Menggunakan Juju](https://medium.com/@msyawalsaputra/charm-openstack-bagian-3-mendeploy-openstack-menggunakan-juju-1d51692e2ddd?source=rss-8228a7b99362------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
