@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing an Elastic Kubernetes Platform on VMware vSphere with Cluster API and Cluster Autoscaler](https://msyawalsaputra.medium.com/designing-an-elastic-kubernetes-platform-on-vmware-vsphere-with-cluster-api-and-cluster-autoscaler-aed8692caf80?source=rss-8228a7b99362------2)
 - [How to Reset the Root Password on OPNsense Nano Image by Booting It with KVM](https://msyawalsaputra.medium.com/how-to-reset-the-root-password-on-opnsense-nano-image-by-booting-it-with-kvm-850fcbc77986?source=rss-8228a7b99362------2)
 - [Deployment Multi Master Talos Linux on OpenStack](https://msyawalsaputra.medium.com/deployment-multi-master-talos-linux-on-rhosp-c7c03d3fb965?source=rss-8228a7b99362------2)
 - [Cloud Database CockroachDB &lpar;Multi Tenant Database&rpar;](https://msyawalsaputra.medium.com/cloud-database-cockroachdb-multi-tenant-database-7cc56f018994?source=rss-8228a7b99362------2)
-- [Become a Kubestronaut in My 20s](https://msyawalsaputra.medium.com/%EF%B8%8F-become-a-kubestronaut-in-my-20s-7a10e4d46064?source=rss-8228a7b99362------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
