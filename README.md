@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walsptr&label=Profile%20views&color=0e75b6&style=flat" alt="walsptr" /> </p>
 
-- 🔭 I’m currently working on **Inovasi Informatika Indonesia**
+- 🔭 I’m currently open to work
 
 - 🌱 I’m currently learning **OpenStack and Kubernetes**
 
